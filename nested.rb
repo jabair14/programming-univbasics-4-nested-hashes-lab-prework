@@ -124,4 +124,5 @@ def adding_to_dennis
         }
      }
 puts [:dennis_ritchie][:languages][0]
+programmer_hash
 end
