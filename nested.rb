@@ -123,5 +123,5 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
-return[:dennis_ritchie][:languages][0]
+puts [:dennis_ritchie][:languages][0]
 end
